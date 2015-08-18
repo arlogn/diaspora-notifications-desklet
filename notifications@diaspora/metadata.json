@@ -1,0 +1,6 @@
+{
+    "uuid": "notifications@diaspora",
+    "name": "diaspora* notifications counter",
+    "description": "Display a counter of unread disapora* notifications",
+    "prevent-decorations": true
+}
